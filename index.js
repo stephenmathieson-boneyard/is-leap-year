@@ -12,5 +12,6 @@ module.exports = function (year) {
       ? year.getFullYear()
       : year;
 
+  // only leap years have feb 29
   return !(new Date(year, 1, 29).getMonth() - 1);
 };
