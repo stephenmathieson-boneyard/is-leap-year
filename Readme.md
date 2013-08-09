@@ -9,6 +9,10 @@
 
     $ component install stephenmathieson/is-leap-year
 
+  Install with [npm](https://npmjs.org/):
+
+    $ npm install is-leap-year
+
 ## API
 
 ### `isLeapYear(Date)`

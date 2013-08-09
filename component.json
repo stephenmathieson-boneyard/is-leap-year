@@ -2,7 +2,7 @@
   "name": "is-leap-year",
   "repo": "stephenmathieson/is-leap-year",
   "description": "check if the given year is a leap year",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "keywords": [ "date", "year" ],
   "dependencies": {},
   "development": {},
